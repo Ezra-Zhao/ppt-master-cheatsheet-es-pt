@@ -1,5 +1,7 @@
 # 🎞️ PPT Master Cheatsheet · Guía rápida / Guia rápido
 
+> 📚 **Colección / Coleção**: esta hoja forma parte de [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) — 100 hojas de referencia en un solo repositorio. / Esta folha faz parte de [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) — 100 folhas de referência em um só repositório. ⭐
+
 One page to use [PPT Master](https://github.com/hugohe3/ppt-master) (61k+ ⭐): hand an AI agent a PDF, DOCX, web page or pasted text and get back a **native PowerPoint deck** — real shapes, charts and tables you can keep editing, never slide images. Install three ways, create in three steps, reuse your own `.pptx` as a template two different ways. Commands verified 2026-10-12 against the upstream README and Getting Started docs.
 
 **Full cheatsheets, one per language (written natively, not translated):**
